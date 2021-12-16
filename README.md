@@ -16,3 +16,4 @@
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
 * [Ödev3-Uçak Bileti Fiyatı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV3.md)
 * [Ödev4-Çin Zodyağı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV4.md)
+* [Ödev5-Artık Yıl Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV5.md)
