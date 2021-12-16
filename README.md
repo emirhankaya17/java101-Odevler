@@ -15,3 +15,4 @@
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
 * [Ödev3-Uçak Bileti Fiyatı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV3.md)
+* [Ödev4-Çin Zodyağı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV4.md)
