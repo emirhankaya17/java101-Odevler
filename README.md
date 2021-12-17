@@ -18,6 +18,7 @@
 * [Pratik15-Üslü Sayı Hesaplayan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK15.md)
 * [Pratik16-Basamak Sayılarının Toplamını Hesaplayan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK16.md)
 * [Pratik17-Harmonik Sayıları Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK17.md)
+* [Pratik18-Yıldızlar İle Elmas Yapımı](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK18.md)
 ### Ödevler
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
