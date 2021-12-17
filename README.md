@@ -15,6 +15,7 @@
 * [Pratik12-Sayıların Toplamını Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK12.md)
 * [Pratik13-Kuvvetleri Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK13.md)
 * [Pratik14-Faktöriyel Hesaplayan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK14.md)
+* [Pratik15-Üslü Sayı Hesaplayan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK15.md)
 ### Ödevler
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
