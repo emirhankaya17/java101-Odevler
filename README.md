@@ -29,3 +29,4 @@
 * [Ödev5-Artık Yıl Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV5.md)
 * [Ödev6-Girilen Sayılardan Min ve Max Değerleri Bulma](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV6.md)
 * [Ödev7-Mükemmel Sayı Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV7.md)
+* [Ödev8-Ters Üçgen Yapımı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV8.md)
