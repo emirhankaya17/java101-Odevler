@@ -25,7 +25,7 @@ public class Main {
             pointer--;
         }
 
-        pointer = (Math.min(num1,num2)/ebob ) +1;
+        pointer = (Math.max(num1,num2)/ebob ) +1;
         while (true)
         {
             if(ebob* pointer % num1 ==0 && ebob* pointer % num2 == 0)
