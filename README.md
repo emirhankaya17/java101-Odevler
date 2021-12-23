@@ -36,3 +36,4 @@
 * [Ödev9-Asal Sayıları Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV9.md)
 * [Ödev10-Fibonacci Serisi](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV10.md)
 * [Ödev11-Recursive Metotlar ile Üslü Sayı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV11.md)
+* [Ödev12-Asal Sayı Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV12.md)
