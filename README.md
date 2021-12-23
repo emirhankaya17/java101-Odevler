@@ -23,6 +23,7 @@
 * [Pratik20-EBOB-EKOK Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK20.md)
 * [Pratik21-Palindrom Sayılar](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK21.md)
 * [Pratik22-Recursive ile Fibonacci Serisi Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK22.md)
+* [Pratik23-Gelişmiş Hesap Makinesi](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK23.md)
 ### Ödevler
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
