@@ -40,3 +40,4 @@
 * [Ödev11-Recursive Metotlar ile Üslü Sayı Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV11.md)
 * [Ödev12-Asal Sayı Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV12.md)
 * [Ödev13-Desene Göre Metot Oluşturma](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV13.md)
+* [Ödev14-Maaş Hesaplayıcı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV14.md)
