@@ -27,6 +27,7 @@
 * [Pratik24-Öğrenci Not Sistemi](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK24.md)
 * [Pratik25-Boks Maçı](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK25.md)
 * [Pratik26-Dizideki Elemanların Ortalamasını Hesaplayan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK26.md)
+* [Pratik27-Dizideki Maksimum ve Minimum Değerleri Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK27.md)
 ### Ödevler
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
