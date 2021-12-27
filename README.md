@@ -46,3 +46,4 @@
 * [Ödev13-Desene Göre Metot Oluşturma](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV13.md)
 * [Ödev14-Maaş Hesaplayıcı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV14.md)
 * [Ödev15-Dizideki Elemanları Sıralama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV15.md)
+* [Ödev16-Dizideki Elemanların Frekansı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV16.md)
