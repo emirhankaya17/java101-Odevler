@@ -30,6 +30,7 @@
 * [Pratik27-Dizideki Maksimum ve Minimum Değerleri Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK27.md)
 * [Pratik28-Çok Boyutlu Diziler ile B Harfi Yazdıran Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK28.md)
 * [Pratik29-Dizideki Tekrar Eden Sayıları Bulan Program](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK29.md)
+* [Pratik30-Sayı Tahmin Oyunu](https://github.com/emirhankaya17/java101-Odevler/blob/main/PRATIK30.md)
 ### Ödevler
 * [Ödev1-Vücut Kitle İndeksi Hesaplama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV1.md)
 * [Ödev2-Manav Kasa Programı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV2.md)
