@@ -50,3 +50,4 @@
 * [Ödev15-Dizideki Elemanları Sıralama](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV15.md)
 * [Ödev16-Dizideki Elemanların Frekansı](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV16.md)
 * [Ödev17-Matris Transpozunu Bulma](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV17.md)
+* [Ödev18-Mayın Tarlası Oyunu](https://github.com/emirhankaya17/java101-Odevler/blob/main/ODEV18.md)
